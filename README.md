@@ -6,7 +6,7 @@
 
 A Printed Circuit Board (PCB) is a flat board used to support and connect electronic components in various devices and systems. It is made of insulating material, usually fiberglass, with thin layers of copper that form conductive pathways called traces. These traces replace traditional wiring and allow electrical signals and power to flow between components such as resistors, capacitors, diodes, transistors, and integrated circuits.
 
-Features
+## Features
 
 ESP32-DevKit-V1 compatible design
 5V regulated power supply using AMS1117-5.0
