@@ -57,7 +57,7 @@ The lower part of the image is cut off, so components below U5 are not visible.
 
 ## Author Name
 
-*ADRIAN JAMES A.AQUINO
+*ADRIAN JAMES A. AQUINO
 
 ## Course & Section
 
